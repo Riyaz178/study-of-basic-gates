@@ -63,6 +63,9 @@ Y= A⊕B
 
 
 **PROGRAM**
+ Developed by:Gowtham S
+ RegisterNumber: 212224100018
+ ```
 module LOGIC_GATES(a,b,andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate);
 input a,b;
 output andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate;
@@ -74,21 +77,24 @@ nor(norgate,a,b);
 xor(xorgate,a,b);
 xnor(xnorgate,a,b);
 endmodule
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by:riyaz M 
- RegisterNumber: 212224040279
+```
  
 **Logic symbol & Truthtable**
-![image](https://github.com/user-attachments/assets/73003bb4-9d57-4318-952b-31d358cb0213)
-![image](https://github.com/user-attachments/assets/18ccd2bb-3280-44d0-8400-6bb12f0b65fb)
+
+
+![329466695-2f6d090e-b158-4a7f-a95c-8607e599e91a](https://github.com/user-attachments/assets/53b3a0ba-1f74-47b4-be3a-b3bd7540ace6)
+
+![329466813-40baeb41-c5d7-4de3-be03-c21544a9419a](https://github.com/user-attachments/assets/4004d713-0dd1-44a9-99bd-24cccbd0bc77)
 
 **RTL realization Output:** 
-![image](https://github.com/user-attachments/assets/53092856-f833-42d7-a920-d637c28a96ef)
+
+
+![329466965-ec8c42e3-917f-4019-a1f5-a31d00f47b32](https://github.com/user-attachments/assets/e34dab7f-065d-46e3-9874-9828c0e06691)
 
 **RTL**
-![image](https://github.com/user-attachments/assets/373d66c1-7ad5-4903-b14f-ba8cc3a1123b)
+
+![313077491-0cceb6d6-38dd-4eca-a70e-df1b7f5cfdca](https://github.com/user-attachments/assets/33184286-43cb-4ab6-9abb-8a60560d3aaa)
+
 
 **Result:**
-Thus the basic logic gates are studied and the ttruth tables are verified
-
+The Output is successfully verified..
